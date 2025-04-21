@@ -1,0 +1,8 @@
+3. Dynamically Change Background Color
+Objective: Allow users to change the background color of the webpage using buttons.
+Requirements:
+● Provide a set of predefined color buttons (e.g., Blue, Red, Green).
+● On click, update the background color of the page.
+Technical Focus:
+● JavaScript DOM manipulation using style.backgroundColor.
+● Event handling with addEventListener.

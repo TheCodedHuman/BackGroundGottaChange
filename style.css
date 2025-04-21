@@ -1,0 +1,64 @@
+/*--------------------------------- GLOBAL --------------------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    border: 0.2px solid grey;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.color {
+    height: 100px;
+    width: 100px;
+    border: 0.2px dotted #212121;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+.lavender {
+    background-color: lavender;
+}
+
+.palegreen {
+    background-color: palegreen; /* A soft green alternative */
+}
+
+.peach {
+    background-color: peachpuff; /* Peach-specific CSS name */
+}
+
+.beige {
+    background-color: beige;
+}
+
+.softpink {
+    background-color: lightpink; /* Softer pink shade */
+}
+
+.lightyellow {
+    background-color: lightyellow;
+}
+
+.turquoise {
+    background-color: turquoise;
+}
+
+.pastelpurple {
+    background-color: thistle; /* Pastel-like purple */
+}
+
+.seashell {
+    background-color: seashell;
+}
